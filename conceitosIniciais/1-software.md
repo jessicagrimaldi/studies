@@ -1,17 +1,4 @@
-# Conceitos Iniciais de Lógica e Software
-
-Olá! Aqui iremos tratar, de forma breve, de conceitos relacionados a lógica de programação e desenvolvimento de software.
-
-## Lógica:
-É um campo de estudo que utiliza princípios e econhecimentos para se atingir um raciocínio correto.
-
-## Lógica de Programação:
-Surgiu a partir dos princípios da lógica e consiste em uma técnica de pensamento encadeado para atingir determinado objetivo ou solucionar um problema.
-
-Podemos dizer que a lógica é a primeira etapa da programação em si. Antes de começar a escrever um código devemos pensar quais questões devem ser resolvidas, estudar as soluções possíveis e planejar todas as etapas da solução.
-
-## Algoritmos
-Sequência lógica de conjuntos de passos a serem executados.
+# Conceitos Iniciais Software
 
 ## Software
 Produto virtual usado para descrever programas, aplicativos, scripts, macros e instruções de código embarcado diariamente (fimware) a fim de determinar o que uma máquina deve fazer. Ou seja, é um agrupamento de instruções ou comandos escritos em uma linguagem de programação que são lidos pelo computador e possibilitam seu funcionamento.
@@ -67,7 +54,7 @@ São softwares ou pequenos elementos de software responsáveis pela comunicaçã
 
 
 
-> Referências: 
+##  Referências: 
 > SENAI. Programação Backend (Lógica de Programação).2021. Curso online.
 
 
