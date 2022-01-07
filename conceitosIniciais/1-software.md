@@ -1,4 +1,4 @@
-# Conceitos Iniciais Software
+# Conceitos Iniciais sobre Software
 
 ## Software
 Produto virtual usado para descrever programas, aplicativos, scripts, macros e instruções de código embarcado diariamente (fimware) a fim de determinar o que uma máquina deve fazer. Ou seja, é um agrupamento de instruções ou comandos escritos em uma linguagem de programação que são lidos pelo computador e possibilitam seu funcionamento.
