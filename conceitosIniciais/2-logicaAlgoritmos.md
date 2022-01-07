@@ -1,6 +1,6 @@
 # Conceitos Iniciais de Lógica e Algoritmos
 
-## Lógica:
+## Lógica
 Campo de estudo que utiliza princípios e econhecimentos para se atingir um raciocínio correto. Podemos dizer que a lógica é a primeira etapa da programação em si. Antes de começar a escrever um código devemos pensar quais questões devem ser resolvidas, estudar as soluções possíveis e planejar todas as etapas da solução. Para isso, é necessário utilizar uma sequência lógica, que é um conjunto de passos a serem executados. Quando falamos em sequência lógica, estamos falando de algoritmos.
 
 ## Algoritmos
@@ -40,5 +40,8 @@ Termos comuns na representação por pseudocódigos:
 
 Os fluxogramas são representações de algoritmos via diagrama ou representação gráfica e descreve as diferentes ações a serem realizadas durante a execução de um algoritmo.
 
-##  Referências: 
+## Lógica de Programação
+Surgiu a partir dos princípios da lógica e consiste em uma técnica de pensamento encadeado para atingir determinado objetivo ou solucionar um problema.
+
+##  Referências
 > SENAI. Programação Backend (Lógica de Programação).2021. Curso online.
