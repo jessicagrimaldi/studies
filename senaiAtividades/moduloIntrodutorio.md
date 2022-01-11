@@ -1,6 +1,6 @@
 # Atividades Senai - Módulo Introdutório
 
-Este repositório tem como objetivo organizar as atividades do curso de Programação Back End realizadas neste github. Abaixo seguem links das tarefas realizadas no módulo introdutório.
+Segue abaixo os links das atividades entregues no módulo introdutório do curso de Programação Back End do SENAI:
 
 * [Atividade 01](https://github.com/jessicagrimaldi/senaiBackEnd/tree/development): Nesta atividade o objetivo foi conhecer o funcionamento do Git e Github, criando um repositório e simular uma branch realizada por um colega. (Criei a branch "development" para realizar a simulação)
 
