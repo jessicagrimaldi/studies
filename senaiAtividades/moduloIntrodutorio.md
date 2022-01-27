@@ -15,3 +15,5 @@ Segue abaixo os links das atividades entregues:
 * [Atividade    01](https://github.com/jessicagrimaldi/senaiLogicaProgER): Esta atividade tinha como objetivo criar um sistema de cadastro de peças em Javascript.
 
 * [Atividade    02](https://github.com/jessicagrimaldi/senaiLogicaProg): Esta atividade tinha como objetivo criar um sistema de cadastro de eventos em Javascript.
+
+* [Atividade    03](https://github.com/jessicagrimaldi/senaiLogicaProgER02): Esta atividade tinha como objetivo criar um sistema de contagem de alunos em Javascript.
