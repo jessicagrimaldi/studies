@@ -6,4 +6,11 @@ Atividades referentes a codificação back-end (Módulo de conhecimento específ
 
 **Obs.: Atividade 01 realizada a partir do enunciado seguinte:** *Crie a base do sistema orientado a objetos para cadastro de clientes da ClientLab, modelando suas classes, seus atributos, operações e relações entre objetos. O sistema deve atender às seguintes características: Armazenar os cadastros das pessoas físicas e jurídicas;  As pessoas físicas possuem nome, CPF e data de nascimento; As pessoas jurídicas possuem nome, CNPJ e razão social; Ambos devem possuir a opção para pagar imposto; Ambos devem possuir um endereço e indicar se o endereço é comercial ou residencial; O sistema deve armazenar seus registros em arquivos.*
 
-* [Atividade 02](https://github.com/jessicagrimaldi/senaiClientes): Sistema de cadastro de clientes em C# e .NET (Em andamento)
+* [Atividade 02](https://github.com/jessicagrimaldi/senaiClientes): Sistema de cadastro de clientes em C# e .NET 
+
+* [Atividade 03](https://github.com/eudevsandy/senaiBD): Criação de Banco de Dados para RPG Online com SQL Server
+
+* [Atividade 04](https://github.com/jessicagrimaldi/APIMonitoramentoProjetos): Criação de API com C#, .NET e SQL Server (Em andamento)
+
+
+
